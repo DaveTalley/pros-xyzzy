@@ -2,7 +2,7 @@
  * drive.c
  *
  *  Created on: Dec 5, 2015
- *      Author: 1727X
+ *      Author: David J. Talley
  */
 #include "drive.h"
 
